@@ -23,7 +23,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-15%2011-04-21.png![image](https://user-images.githubusercontent.com/119395610/212524683-0c3f9975-d16e-472f-8c91-f1e2dc5ed7ed.png)
+
 
 
 ## Result:
